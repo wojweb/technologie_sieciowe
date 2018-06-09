@@ -1,0 +1,32 @@
+{
+  "vertices":["v1","v2","v3","v4","v5","v6","v7","v8","v9","v10"],
+  "edges": [
+    {"vertex1":"v1","vertex2":"v2","reliability":0.95},
+    {"vertex1":"v2","vertex2":"v3","reliability":0.95},
+    {"vertex1":"v3","vertex2":"v4","reliability":0.95},
+    {"vertex1":"v4","vertex2":"v5","reliability":0.95},
+    {"vertex1":"v5","vertex2":"v6","reliability":0.95},
+    {"vertex1":"v6","vertex2":"v7","reliability":0.95},
+    {"vertex1":"v7","vertex2":"v8","reliability":0.95},
+    {"vertex1":"v8","vertex2":"v9","reliability":0.95},
+    {"vertex1":"v9","vertex2":"v10","reliability":0.95},
+    {"vertex1":"v4","vertex2":"v7","reliability":0.95},
+    {"vertex1":"v4","vertex2":"v8","reliability":0.95},
+    {"vertex1":"v1","vertex2":"v5","reliability":0.95},
+    {"vertex1":"v1","vertex2":"v8","reliability":0.95}
+
+
+  ],
+  "matrix": [
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ]
+}

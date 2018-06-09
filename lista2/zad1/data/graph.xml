@@ -1,0 +1,64 @@
+<?xml version = "1.0"?>
+
+<graph>
+    <vertices>
+        <vertex>v1</vertex>
+        <vertex>v2</vertex>
+        <vertex>v3</vertex>
+        <vertex>v4</vertex>
+        <vertex>v5</vertex>
+        <vertex>v6</vertex>
+        <vertex>v7</vertex>
+        <vertex>v8</vertex>
+        <vertex>v9</vertex>
+        <vertex>v10</vertex>
+    </vertices>
+    <edges>
+        <edge>
+            <vertex>v1</vertex>
+            <vertex>v2</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v2</vertex>
+            <vertex>v3</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v3</vertex>
+            <vertex>v4</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v4</vertex>
+            <vertex>v5</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v5</vertex>
+            <vertex>v6</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v6</vertex>
+            <vertex>v7</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v7</vertex>
+            <vertex>v8</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v8</vertex>
+            <vertex>v9</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+        <edge>
+            <vertex>v9</vertex>
+            <vertex>v10</vertex>
+            <reliability>0.95</reliability>
+        </edge>
+
+    </edges>
+</graph>
